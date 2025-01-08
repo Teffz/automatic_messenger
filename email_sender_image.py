@@ -10,8 +10,10 @@ users_db = {}
 # Configuração do servidor de e-mail (atualize com seus dados)
 SMTP_SERVER = "smtp.gmail.com"  # Servidor SMTP do Gmail
 SMTP_PORT = 587  # Porta do servidor SMTP
-EMAIL_ADDRESS = "sthefatefinha@gmail.com"  # Substitua pelo seu endereço de e-mail
-EMAIL_PASSWORD = "zmsq ojuh tgzl dijz"  # Substitua pela sua senha ou app password
+EMAIL_ADDRESS = "usuario@gmail.com"  # Substitua pelo seu endereço de e-mail
+EMAIL_PASSWORD = "apppassword"  # Substitua pela sua senha ou app password
+
+#o apppassword você pode acessar seu google e gerar uma senha
 
 # Mensagens e assuntos do e-mail
 EMAIL_SUBJECT_HTML = "Cadastro efetuado com sucesso!"
